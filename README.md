@@ -1,4 +1,4 @@
-# Mobilno-Full-Stack
+# Mobilno-Full-Stack   --- NAPOMENA-aplikacija još uvek nije završena
 
 Ova full-stack hibridna aplikacija, izgrađena korišćenjem ASP.NET Core Web API i Ionic sa Reactom, dizajnirana je za upravljanje i prikazivanje informacija za Svetsko prvenstvo 2024. u Kataru. Aplikacija pruža sveobuhvatnu platformu za pristup detaljima turnira, upravljanje timovima i grupama, te administraciju rasporeda mečeva i rezultata.
 
